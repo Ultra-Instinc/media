@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "name": "Harry Russel-Greenholt",
+      "id": 1
+    },
+    {
+      "name": "Barry Erdman",
+      "id": 2
+    },
+    {
+      "name": "Wanda Kub-Cummings",
+      "id": 3
+    },
+    {
+      "name": "Lorenzo Hagenes",
+      "id": 4
+    },
+    {
+      "name": "Elmer Dibbert",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "title": "Tasty Bronze Bacon",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "Tasty Bronze Ball",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Gorgeous Concrete Ball",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Handmade Metal Computer",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "title": "Recycled Rubber Chips",
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "title": "Gorgeous Metal Chips",
+      "userId": 4,
+      "id": 6
+    },
+    {
+      "title": "Gorgeous Soft Fish",
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "title": "Refined Bronze Mouse",
+      "userId": 4,
+      "id": 8
+    },
+    {
+      "title": "Ergonomic Concrete Mouse",
+      "userId": 4,
+      "id": 9
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/bqe4j3/640/480",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/khB78n/640/480",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=6452226472017920",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=1127983532212224",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/hCvS5v/640/480",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=7042445111984128",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=1226328128880640",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/TJfTrLVUKb/640/480",
+      "id": 9
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/ZT887J7/640/480",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=5401557992472576",
+      "id": 11
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=1454576385392640",
+      "id": 12
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=5940205609549824",
+      "id": 13
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/LnhxZg/640/480",
+      "id": 14
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/f7SINi/640/480",
+      "id": 16
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/640/480?lock=825664317947904",
+      "id": 17
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/640/480?lock=3521841754800128",
+      "id": 18
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/FFfRYBWC/640/480",
+      "id": 19
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/640/480?lock=7117930716200960",
+      "id": 20
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/3KWjblaT/640/480",
+      "id": 21
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/mgXtVMZ/640/480",
+      "id": 22
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/640/480?lock=5600407342546944",
+      "id": 23
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/yTtj34/640/480",
+      "id": 24
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/640/480?lock=1282720600686592",
+      "id": 25
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/jRs2PZB3/640/480",
+      "id": 26
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/640/480?lock=6751880329822208",
+      "id": 27
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/tUpVJz6cA/640/480",
+      "id": 28
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/xSjmS/640/480",
+      "id": 29
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/JgLWj1i7a/640/480",
+      "id": 30
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/640/480?lock=7984204436471808",
+      "id": 31
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=2563777421639680",
+      "id": 33
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/tTJXAPBQ5/640/480",
+      "id": 34
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=6060695982440448",
+      "id": 35
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=371660448333824",
+      "id": 36
+    }
+  ]
+}
